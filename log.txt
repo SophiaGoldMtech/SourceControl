@@ -1,0 +1,60 @@
+commit f361d0eb53577cbd320cb8f778de44b134af5dce
+Merge: c9231af 9b4eef2
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Fri Jan 12 09:46:08 2024 -0700
+
+    final commit
+
+commit c9231af383e5f3808902b97c86b84e5caf5bd885
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Fri Jan 12 09:29:00 2024 -0700
+
+    add image
+
+commit 815c99b19d5d9006f5a03f35b61b98d04952f6ff
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Fri Jan 12 09:16:44 2024 -0700
+
+    new branch changes
+
+commit 2df1b38346eeb33047c305524874c62e396e9102
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Fri Jan 12 08:54:33 2024 -0700
+
+    html and css
+
+commit 9b4eef2e6b154e15f5a5104d12f84a339a4e85c2
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Fri Jan 12 08:48:19 2024 -0700
+
+    css html changes
+
+commit 84ad06c8c980dd2554a51052c1976ac6df9bfbbe
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Fri Jan 12 08:00:37 2024 -0700
+
+    add develop branch
+
+commit 0380343339c02b86bc77ba04e36c41ade70b1a62
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Fri Jan 12 07:59:25 2024 -0700
+
+    add css file
+
+commit beef38985b3e4b9e63c01ac60f131aa592ef3089
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Fri Jan 12 07:58:45 2024 -0700
+
+    add html file
+
+commit 8f414280da16d4764447ca09da0e10c99914530d
+Author: Sophia Gold <Sophia.gold2920@stu.mtec.edu>
+Date:   Fri Jan 12 07:57:01 2024 -0700
+
+    gitignore file
+
+commit af08959b7f8209763e3b845dce73e27f5a34c8b4
+Author: SophiaGoldMtech <143653822+SophiaGoldMtech@users.noreply.github.com>
+Date:   Fri Jan 12 07:52:34 2024 -0700
+
+    Initial commit
